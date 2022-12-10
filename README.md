@@ -1,1 +1,1 @@
-examples from # summerfield
+examples from the book # summerfield
